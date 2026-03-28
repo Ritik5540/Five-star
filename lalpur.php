@@ -177,7 +177,7 @@ style="background: url('img/banner.jpg') no-repeat center center/cover; min-heig
                                 <a href="#" class="btn theme_btn button_hover">Book Now</a>
                             </div>
                             <a href="#"><h4 class="sec_h4">Double sharing room</h4></a>
-                            <h5>₹ 3,500<small>/ Per Month</small></h5>
+                            <h5>₹ 3,600<small>/ Per Month</small></h5>
                             <h5 class="text-dark">Security – ₹ 1,500<small> /- (One time adjustable & refundable)</small></h5>
                         </div>
                     </div>
