@@ -30,7 +30,7 @@
                     <div class="collapse navbar-collapse offset" id="navbarSupportedContent">
                         <ul class="nav navbar-nav menu_nav ml-auto">
                             <li class="nav-item active"><a class="nav-link" href="index.php">Harmu</a></li>
-                            <li class="nav-item active"><a class="nav-link" href="lalpur.php">Lalpur</a></li> 
+                            <li class="nav-item active"><a class="nav-link" href="./lalpur">Lalpur</a></li> 
                             <li class="nav-item"><a class="nav-link" href="about.php">About-Us</a></li>
                             <li class="nav-item"><a class="nav-link" href="room.php">room</a></li>
                              <li class="nav-item"><a class="nav-link" href="services.php">Services</a></li>
@@ -38,7 +38,8 @@
                                 <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Gallery</a>
                                 <ul class="dropdown-menu">
                                     <li class="nav-item"><a class="nav-link" href="gallery.php">Photos Gallery</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="Videoes.php">Videos Gallery</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="360-gallery.php">360° Gallery</a></li>
+                                    <!-- <li class="nav-item"><a class="nav-link" href="Videoes.php">Videos Gallery</a></li> -->
                                 </ul>
                             </li> 
                             <li class="nav-item submenu dropdown">

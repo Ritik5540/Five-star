@@ -145,7 +145,8 @@
 <section class="py-5 bg-light">
   <div class="container">
     <h2 class="text-center mb-4">Our Gallery</h2>
-
+     
+    <h3>Harmu Colony PG </h3>
     <div class="row g-3">
 
       <!-- 1 -->
@@ -180,7 +181,107 @@
         </div>
       </div>
 
+      <!-- 5 -->
+      <div class="col-12 col-sm-6 col-lg-3">
+        <div class="gallery-box" onclick="openModal(4)">
+          <img src="img/about/img1.jpeg">
+          <div class="overlay">+</div>
+        </div>
+      </div>
+
+      <!-- 6 -->
+      <div class="col-12 col-sm-6 col-lg-3">
+        <div class="gallery-box" onclick="openModal(5)">
+          <img src="img/about/img2.jpeg">
+          <div class="overlay">+</div>
+        </div>
+      </div>
+
+      <!-- 7 -->
+      <div class="col-12 col-sm-6 col-lg-3">
+        <div class="gallery-box" onclick="openModal(6)">
+          <img src="img/about/img3.jpeg">
+          <div class="overlay">+</div>
+        </div>
+      </div>
+
+      <!-- 8 -->
+      <div class="col-12 col-sm-6 col-lg-3">
+        <div class="gallery-box" onclick="openModal(7)">
+          <img src="img/about/img4.jpeg">
+          <div class="overlay">+</div>
+        </div>
+      </div>
+
+      <!-- 9 -->
+      <div class="col-12 col-sm-6 col-lg-3">
+        <div class="gallery-box" onclick="openModal(8)">
+          <img src="img/about/img5.jpeg">
+          <div class="overlay">+</div>
+        </div>
+      </div>
+
+      <!-- 10 -->
+      <div class="col-12 col-sm-6 col-lg-3">
+        <div class="gallery-box" onclick="openModal(9)">
+          <img src="img/about/img6.jpeg">
+          <div class="overlay">+</div>
+        </div>
+      </div>
+
+      <!-- 11 -->
+      <div class="col-12 col-sm-6 col-lg-3">
+        <div class="gallery-box" onclick="openModal(10)">
+          <img src="img/about/img7.jpeg">
+          <div class="overlay">+</div>
+        </div>
+      </div>
+
     </div>
+    <br>
+    <h3>Lalpur PG </h3>
+    <div class="row g-3">
+
+      <!-- 1 -->
+      <div class="col-12 col-sm-6 col-lg-3">
+        <div class="gallery-box" onclick="openModal(11)">
+          <img src="img/lal/img1.jpeg">
+          <div class="overlay">+</div>
+        </div>
+      </div>
+
+      <!-- 2 -->
+      <div class="col-12 col-sm-6 col-lg-3">
+        <div class="gallery-box" onclick="openModal(12)">
+          <img src="img/lal/img2.jpeg">
+          <div class="overlay">+</div>
+        </div>
+      </div>
+
+      <!-- 3 -->
+      <div class="col-12 col-sm-6 col-lg-3">
+        <div class="gallery-box" onclick="openModal(13)">
+          <img src="img/lal/img3.jpeg">
+          <div class="overlay">+</div>
+        </div>
+      </div>
+
+      <!-- 4 -->
+      <div class="col-12 col-sm-6 col-lg-3">
+        <div class="gallery-box" onclick="openModal(14)">
+          <img src="img/lal/img4.jpeg">
+          <div class="overlay">+</div>
+        </div>
+      </div>
+
+      <!-- 5 -->
+      <div class="col-12 col-sm-6 col-lg-3">
+        <div class="gallery-box" onclick="openModal(15)">
+          <img src="img/lal/img5.jpeg">
+          <div class="overlay">+</div>
+        </div>
+      </div>
+
   </div>
 </section>
 
@@ -216,7 +317,19 @@ const images = [
   "img/about/single1.jpg",
   "img/about/double2.jpg",
   "img/about/pre_single1.jpg",
-  "img/about/tripal1.jpg"
+  "img/about/tripal1.jpg",
+  "img/about/img1.jpeg",
+  "img/about/img2.jpeg",
+  "img/about/img3.jpeg",
+  "img/about/img4.jpeg",
+  "img/about/img5.jpeg",
+  "img/about/img6.jpeg",
+  "img/about/img7.jpeg",
+  "img/lal/img1.jpeg",
+  "img/lal/img2.jpeg",
+  "img/lal/img3.jpeg",
+  "img/lal/img4.jpeg",
+  "img/lal/img5.jpeg"
 ];
 
 let currentIndex = 0;
